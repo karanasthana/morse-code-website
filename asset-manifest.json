@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/morse-code-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/morse-code-website/static/js/main.1184655c.chunk.js",
+    "main.js.map": "/morse-code-website/static/js/main.1184655c.chunk.js.map",
+    "runtime-main.js": "/morse-code-website/static/js/runtime-main.4c89d8c3.js",
+    "runtime-main.js.map": "/morse-code-website/static/js/runtime-main.4c89d8c3.js.map",
+    "static/js/2.b5eb8c92.chunk.js": "/morse-code-website/static/js/2.b5eb8c92.chunk.js",
+    "static/js/2.b5eb8c92.chunk.js.map": "/morse-code-website/static/js/2.b5eb8c92.chunk.js.map",
+    "index.html": "/morse-code-website/index.html",
+    "precache-manifest.c07f253bff7c70bc2725e1adfd9a2ec7.js": "/morse-code-website/precache-manifest.c07f253bff7c70bc2725e1adfd9a2ec7.js",
+    "service-worker.js": "/morse-code-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/morse-code-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b5eb8c92.chunk.js.LICENSE.txt": "/morse-code-website/static/js/2.b5eb8c92.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/morse-code-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c89d8c3.js",
+    "static/js/2.b5eb8c92.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1184655c.chunk.js"
+  ]
+}
